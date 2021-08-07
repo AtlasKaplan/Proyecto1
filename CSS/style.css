@@ -1,0 +1,85 @@
+body {
+  background-color: #CDF0EA;
+  font-size: 23px;
+}
+
+img {
+  width: 377px;
+}
+
+hr {
+  background-color: #CDF0EA;
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #C490E4;
+  width: 50%;
+}
+
+h1 {
+  color: #C490E4;
+  text-decoration: underline;
+  font-size: 55px;
+}
+
+h3 {
+  color: #C490E4;
+  text-decoration: underline;
+}
+
+.caracol {
+  width: 75px;
+}
+
+.fotoin {
+  border-radius: 100%;
+}
+
+.contacto {
+  border-radius: 100%;
+  width: 377px;
+}
+
+/* Style buttons */
+.btn {
+  background-color: #C490E4;
+  /* #C490E4 background */
+  border: none;
+  /* Remove borders */
+  color: #F9F9F9;
+  /* White text */
+  padding: 13px 27px;
+  /* Some padding */
+  font-size: 20px;
+  /* Set a font size */
+  cursor: pointer;
+  /* Mouse pointer on hover */
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #F9F9F9;
+  color: #C490E4;
+}
+
+#submit {
+  background-color: #C490E4;
+  border: none;
+  color: #F9F9F9;
+  padding: 13px 27px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#submit:hover {
+  background-color: #F9F9F9;
+  color: #C490E4;
+}
+
+#contactobtn {
+  background-color: #F08FC0;
+  border: none;
+  color: white;
+  padding: 13px 27px;
+  font-size: 20px;
+  cursor: pointer;
+}
